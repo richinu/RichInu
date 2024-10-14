@@ -1,4 +1,4 @@
-# Rich Inu (RIC)
+# Rich Inu
 
 Welcome to the official repository for Rich Inu (Richest Shiba Inu Dog), a community-driven cryptocurrency designed to empower holders and promote positivity.
 
